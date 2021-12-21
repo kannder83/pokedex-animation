@@ -391,6 +391,8 @@ body {
   box-sizing: border-box;
   border-radius: 20px;
   padding: 5px;
+  border: none;
+  background-color: #b3e0e3;
 }
 
 .data_content_image {
